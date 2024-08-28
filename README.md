@@ -20,4 +20,4 @@ Feel free to explore each project to dive into the technical details. I'm always
 
 ---
 Karan Chawla  
-[LinkedIn](https://www.linkedin.com/in/krc12)
+[LinkedIn](https://www.linkedin.com/in/krc12) | karanchawla@alumni.usc.edu
