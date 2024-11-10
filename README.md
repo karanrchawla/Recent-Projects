@@ -4,6 +4,9 @@ Welcome to my project repository! Here, you'll find a selection of my work that 
 
 ## Projects Overview
 
+### 1. **User Behavior and Analytics**
+   - Analyzed user behavior data to identify anomalous behavior using machine learning models like Isolation Forest and Logistic Regression. Created a Web App using Flask to visualize using a Dashboard
+
 ### 1. **Data Dynamo**
    - Built a custom database system with an intuitive query language, significantly enhancing data handling efficiency.
 
